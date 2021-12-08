@@ -11,3 +11,5 @@ https://colab.research.google.com/github/fastai/fastbook/blob/master/02_producti
 
 Accuracy: ~90%
 
+Link to web app:
+https://mybinder.org/v2/gh/archietram/Breast-Cancer-Predictor/HEAD?urlpath=%2Fvoila%2Frender%2Fbreast_cancer_predictor.ipynb
