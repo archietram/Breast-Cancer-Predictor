@@ -1,4 +1,4 @@
-# mammography
+# Breast Cancer Predictor
  
 data:
 https://www.kaggle.com/anwarsalem/dataset-bcd-mammography-images-out
